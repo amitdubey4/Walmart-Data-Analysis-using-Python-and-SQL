@@ -30,9 +30,23 @@ Performed in-depth analysis to answer key business questions:
 - Identification of best-selling product categories.  
 - Analysis of sales performance by time, city, and payment method.  
 - Exploration of customer buying patterns and peak sales periods.  
-- Profit margin analysis by branch and category.  
+- Profit margin analysis by branch and category.
+
+## Business Problems Solved  
+1. **Analyze Payment Methods and Sales**: Identified customer preferences by determining the number of transactions and items sold for each payment method.  
+2. **Identify the Highest-Rated Category in Each Branch**: Analyzed category ratings to highlight branch-specific popular categories.  
+3. **Determine the Busiest Day for Each Branch**: Optimized staffing and inventory management by identifying peak transaction days.  
+4. **Calculate Total Quantity Sold by Payment Method**: Tracked sales volume by payment type to understand purchasing habits.  
+5. **Analyze Category Ratings by City**: Examined average, minimum, and maximum ratings to guide regional promotions.  
+6. **Calculate Total Profit by Category**: Ranked categories by profitability to focus on high-profit products.  
+7. **Determine the Most Common Payment Method per Branch**: Identified branch-specific payment preferences for streamlined processing.  
+8. **Analyze Sales Shifts Throughout the Day**: Evaluated transactions by time of day (Morning, Afternoon, Evening) for better staff and stock scheduling.  
+9. **Identify Branches with Highest Revenue Decline Year-Over-Year**: Investigated branches with declining revenue for targeted strategies to boost sales.  
 
 ## Key Findings  
 - **Revenue Trends**: Clear identification of top-performing branches and product categories.  
 - **Customer Insights**: Patterns in buying behavior by city, payment method, and time.  
-- **Profit Margins**: Analysis of margins by category to identify areas for improvement.  
+- **Profit Margins**: Analysis of margins by category to identify areas for improvement.
+
+## Conclusion
+This project provides actionable insights into Walmart sales data, helping inform business decisions related to revenue optimization, customer targeting, and inventory management.
